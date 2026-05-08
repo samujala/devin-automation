@@ -10,16 +10,6 @@ This system treats that long tail as a work queue. The scanner discovers 113 vio
 
 The dashboard gives a live view of session outcomes, throughput, and failure modes — so you know at a glance whether the automation is healthy or stuck.
 
-## Demo
-
-The system in action — scanner files issues, orchestrator spawns Devin sessions, dashboard tracks outcomes.
-
-![Dashboard overview](docs/screenshots/dashboard.png)
-![Generated GitHub issues](docs/screenshots/issues.png)
-![Devin-authored PR](docs/screenshots/pr-diff.png)
-
-**Loom walkthrough:** [link to come — 5-minute architectural walkthrough for a technical audience]
-
 ## Architecture
 
 ```
