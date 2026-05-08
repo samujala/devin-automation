@@ -1,0 +1,14 @@
+.env
+data/findings.db
+data/findings.db-wal
+data/findings.db-shm
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+probe-output.log
+.claude/
+.DS_Store
